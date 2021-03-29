@@ -1,0 +1,22 @@
+{
+  "name": "babylonjs_hello_world",
+  "version": "1.0.0",
+  "description": "First Babylon Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaySamuelC/BabylonJS_Hello_World.git"
+  },
+  "author": "Sam Clay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaySamuelC/BabylonJS_Hello_World/issues"
+  },
+  "homepage": "https://github.com/ClaySamuelC/BabylonJS_Hello_World#readme",
+  "dependencies": {
+    "babylonjs": "^4.2.0"
+  }
+}
